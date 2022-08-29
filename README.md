@@ -1,4 +1,4 @@
-# <h1 id="topo">Exercício de Front-end - LiraEddit </h1>
+# <h1 id="topo">Exercício de Front-end - App de Finanças </h1>
 
 ## <h2 id=sobre>Sobre</h2>
 
